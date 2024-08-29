@@ -1,6 +1,10 @@
 .experiencia .subtitulo {
   color: #e0e0e0;
-  align-self: start; /* Alinhar o subtítulo no topo da grade */
+  align-self: start; 
+}
+
+.experiencia-texto a{
+  text-decoration: none;
 }
 
 .experiencia-texto {
